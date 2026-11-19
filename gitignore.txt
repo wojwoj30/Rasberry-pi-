@@ -1,0 +1,13 @@
+# Secrets and credentials
+.env
+*.env
+
+# Python virtual environments & bytecode
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Local runtime logs & test artifacts
+*.log
+sample_*.jpg

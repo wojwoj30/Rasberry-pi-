@@ -1,0 +1,7 @@
+openai
+pillow
+opencv-python
+numpy
+python-dotenv
+gpiozero
+rpi-lgpio
